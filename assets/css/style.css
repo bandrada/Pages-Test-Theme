@@ -4,3 +4,7 @@
 @import 
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+* {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+};
